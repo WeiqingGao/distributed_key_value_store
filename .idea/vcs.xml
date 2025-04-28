@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part1_socket_udp_tcp_kvstore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part2_rmi_kvstore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part4_paxos_fault_tolerance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part4_paxos_fault_tolerance/project4" vcs="Git" />
+  </component>
+</project>

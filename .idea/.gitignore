@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Ignore everything
+part1_socket_udp_tcp_kvstore/*
+part2_rmi_kvstore/*
+part3_2pc_replication/*
+part4_paxos_fault_tolerance/*
+
+# But NOT src/ folders
+!part1_socket_udp_tcp_kvstore/src/
+!part2_rmi_kvstore/src/
+!part3_2pc_replication/src/
+!part4_paxos_fault_tolerance/src/
